@@ -23,5 +23,4 @@ I am building a solid foundation in Python, focusing on clean code principles an
 - [ ] Implementing basic data science libraries (NumPy, Pandas).
 - [ ] Building my first AI-based logic model.
 
----
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/irembardak)
+
