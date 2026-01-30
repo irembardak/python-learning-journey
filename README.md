@@ -1,26 +1,18 @@
-# 🐍 Python Learning Journey
+# 🐍 Python Learning Journey | Aspiring Computer Engineer
 
-> **"The best way to predict the future is to invent it."** > This repository is a technical log of my journey into Software Engineering and Artificial Intelligence.
+> **"Code is the tool, engineering is the mindset."**
 
-## 🎯 About This Journey
-I am building a solid foundation in Python, focusing on clean code principles and algorithmic thinking. This space documents my daily progress, challenges solved, and technical insights.
+This repository is a structured log of my journey into **Computer Engineering** and **Artificial Intelligence**. As an incoming engineering student (2026), I am committed to maintaining professional documentation and clean code standards from the start.
 
-## 🛠 Tech Stack & Tools
-- **Language:** Python 3.x
-- **Environment:** VS Code / PyCharm
-- **Version Control:** Git & GitHub
-- **Focus:** AI, Machine Learning, Data Structures
+### 📂 Repository Structure
+- **01_Fundamentals:** Core syntax, variables, and memory logic.
+- **02_Control_Flow:** Logic gates, loops, and decision-making processes. (Soon)
+- **03_AI_Foundations:** Explorations in Machine Learning and Data Science. (Soon)
 
-## 📂 Repository Structure
-* `01-Python-Basics/`: Core syntax, variables, and data types.
-* `02-Control-Flow/`: Logic building with loops and conditionals.
-* `03-Functions-Modules/`: Reusable code and library management.
-* `AI-Foundations/`: Notes and practices on Artificial Intelligence.
+### 🎯 Key Objectives
+- [x] Establish a professional GitHub workflow.
+- [ ] Master Pythonic coding principles.
+- [ ] Build a strong foundation for my future engineering degree.
 
-## 📈 Learning Roadmap
-- [x] Initializing professional GitHub workflow.
-- [ ] Mastering Python fundamental syntax.
-- [ ] Implementing basic data science libraries (NumPy, Pandas).
-- [ ] Building my first AI-based logic model.
-
-
+---
+📫 **Connect with me:** [LinkedIn Profile](BURAYA_LINKEDIN_LINKINI_YAPISTIR)
