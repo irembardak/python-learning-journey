@@ -14,5 +14,3 @@ This repository is a structured log of my journey into **Computer Engineering** 
 - [ ] Master Pythonic coding principles.
 - [ ] Build a strong foundation for my future engineering degree.
 
----
-📫 **Connect with me:** [LinkedIn Profile](BURAYA_LINKEDIN_LINKINI_YAPISTIR)
